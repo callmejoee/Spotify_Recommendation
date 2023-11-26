@@ -54,3 +54,4 @@ This Python application uses the Streamlit library along with Spotipy to create 
 
 ## Security Note
 - Ensure that your Spotify API credentials (`client_id` and `client_secret`) are kept secure and not exposed in public repositories.
+- I just used a random guy's Credentials lol
