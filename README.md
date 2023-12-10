@@ -23,7 +23,7 @@ This Python application uses the Streamlit library along with Spotipy to create 
    - Create a new application to obtain your Client ID and Client Secret.
 
 3. **Replace Credentials**:
-   - In the `app.py` file, replace `'YOUR_SPOTIFY_CLIENT_ID'` and `'YOUR_SPOTIFY_CLIENT_SECRET'` with your actual Spotify API credentials.
+   - In the `Spotify_Recommendation.py` file, replace `'YOUR_SPOTIFY_CLIENT_ID'` and `'YOUR_SPOTIFY_CLIENT_SECRET'` with your actual Spotify API credentials.
 
 4. **Run the Application**:
    - Run the Streamlit app by executing:
